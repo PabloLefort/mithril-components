@@ -6,7 +6,7 @@ var input = {
 
 var radio = {
   oninit: function(vnode){
-    vnode.type = 'radio'
+    vnode.attrs.type = 'radio'
   },
   view: function(vnode){
     return m(input, vnode.attrs, [vnode.children])
