@@ -1,0 +1,20 @@
+{
+  "name": "mithril-components",
+  "homepage": "https://github.com/PabloLefort/mithril-components",
+  "authors": [
+    "Lefort Pablo <lefortpablo@gmail.com>"
+  ],
+  "description": "Basic components for speed up your application development",
+  "main": "src/mitrhil-components.js",
+  "keywords": [
+    "mithril"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
